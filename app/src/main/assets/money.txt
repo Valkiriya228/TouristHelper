@@ -1,0 +1,12 @@
+1) Доброе утро! У меня есть доллары США. Могу я обменять их здесь? - Good morning! I have some US dollars. Can I change them here?
+2) Каков обменный курс валют долларов в фунты? - What’s the exchange rate for dollars to pounds?
+3) То есть, если я обменяю 200 долларов, я получу около 160 фунтов, верно? - So, if I change 200 US dollars, I’ll get about 160 pounds, right?
+4) Есть ли какая-то комиссия? - Are there any charges?
+5) Я бы хотел обменять свои деньги. Возьмите. - I would like to change my money. Here you are.
+6) Я бы хотел внести эти деньги на свой счет, пожалуйста. - I would like to pay this money into my account, please.
+7) Я бы хотел снять со счета 100 фунтов, пожалуйста. - I would like to take 100 pounds out, please.
+8) Я бы хотел снять 100 долларов, пожалуйста. - I would like to withdraw 100 dollars, please.
+9) Я бы хотел обналичить этот чек, пожалуйста. - I would like to cash this cheque, please.
+10) Не могли бы Вы, пожалуйста, разменять эту банкноту? - Could you please change this note?
+11) Разменяйте мне эту стодолларовую банкноту по 10 долларов, пожалуйста. - Could you give this 100-dollar note to me in 10-dollar notes, please.
+12) Я бы хотел открыть сберегательный счет. - I would like to open a savings account.

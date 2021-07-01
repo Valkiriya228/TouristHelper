@@ -1,0 +1,30 @@
+1) Привет (Здравствуйте) - Hi (Hello)
+2) Доброе утро/ день/ вечер - Good morning / afternoon / evening
+3) Как дела - How are you? (How do you do?)
+4) Приятно познакомиться - Nice to meet you
+5) Доброй ночи /До свидания / Увидимся - Good night/ Goodbye / See you
+6) Хорошего дня - Have a good day
+7) Пожалуйста - Please
+8) Спасибо (большое) - Thank you (very much)
+9) Пожалуйста (в ответ на спасибо) - You are welcome
+10) Извините / Простите - I’m sorry / Excuse me
+11) Все хорошо (в порядке) - It’s ok (all right)
+12) Ничего страшного - No problem
+13) Не беспокойся - Don’t worry
+14) Да, конечно - Yes, of course
+15) Нет, спасибо - No, thank you
+16) Вы говорите по-английски (по-русски) - Do you speak English (Russian)?
+17) Я не понимаю - I don’t understand
+18) Как Вас зовут? - What is your name?
+19) Меня зовут... - My name is …
+20) Я из России (называете любую страну) - I am from Russia
+21) Можете ли Вы мне помочь? - Can you help me, please?
+22) Можете говорить помедленнее? - Can you speak slowly?
+23) Можете повторить, пожалуйста? - Can you repeat it, please?
+24) Как это называется? - How do you call this?
+25) Запишите, пожалуйста - Write it down, please
+26) Который час? - What time is it?
+27) Кто (Что) это? - Who (What) is it?
+28) Я хочу есть (пить, мне холодно, жарко) - I’m hungry (thirsty, cold, hot )
+29) Мне плохо - I feel bad
+30) Давайте пойдем в … (кафе, театр, музей) - Let’s go to … (café, theatre, museum)

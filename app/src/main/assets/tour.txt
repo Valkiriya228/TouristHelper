@@ -1,0 +1,34 @@
+1) Какие здесь есть достопримечательности?	 - What special sights are there?
+2) Какие достопримечательности Вы посоветуете нам посетить? - What sights would you recommend us to visit? (уот сайтс вуд ю: рикомэнд ас ту визит?)
+3) Извините, как пройти к этому месту? - Excuse me, how can I get to this place?
+4) Правильно ли я иду по направлению к ...? - Am I right for ...?
+5) Как пройти к ... - Which is the way to ...?
+6) Как пройти коротким путем к ...? - Which is the shortest way to ...?
+7) Какие предлагаются экскурсии? - Which sighteeing tours are available?
+8) Расскажите, пожалуйста, какие здесь есть музеи. - Tell us, please, what museums are situated here?
+9) Вы можете порекомендовать нам интересное место? - Could you recommend us an interesting place?
+10) Сколько стоит эта экскурсия? - How much is this tour?
+11) Во сколько начинается (заканчивается) экскурсия? - What time does the tour start (finish)?
+12) Предусмотрена ли экскурсия по города? - Is there a city tour?
+13) Включено ли в стоимость питание? - Are any meals included?
+14) Где я могу приобрести план города? - Where can I buy the map of the city?
+15) Эта экскурсия однодневная? - Is this an all-day tour?
+16) Можно мне взглянуть на брошюру с описанием экскурсий? - Could I have a look at the brochure describing excursions?
+17) Сколько стоят входные билеты в музей? - How much is the museum admission?
+18) Покажите на плане где мы сейчас находимся. - Please point out on this map where we are now
+19) В какой стороне центр города? - Which way is the downtown?
+20) Что это за здание? - What is this building?
+21) Кому поставлен этот памятник? - Whom is this monument put up to?
+22) Где ближайшая ... - Where is the nearest ...
+23) - станция метро?	- subway station?
+24) - стоянка такси?	- taxi stand?
+25) - автобусная остановка?	- bus stop?
+26) Есть ли здесь поблизости туалет? - Is there a public restroom near here?
+27) Я заблудился. Помогите мне, пожалуйста. - 	I've lost my way. Could you help me, please?
+28) Кто-нибудь здесь говорит по-английски? - Can anyone here speak English?
+29) Мне нужен ... - I need ...
+30) -англо-говорящий гид.	- an English-speaking guide
+31) -гид, говорящий на русском. - a Russian-speaking guide
+32) Можно ли здесь фотографировать? - May I take pictures here?
+33) Можно ли использовать вспышку? - May I use a flash?
+34) Сфотографируйте нас, пожалуйста. - Could you take a picture of us, please?

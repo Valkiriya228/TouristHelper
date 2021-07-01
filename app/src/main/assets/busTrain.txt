@@ -1,0 +1,28 @@
+1) Где находится касса? - Where is the ticket office?
+2) Где находятся билетные автоматы? - Where are the ticket machines?
+3) Во сколько идет следующий автобус на Рочестер? - What time is the next bus to Rochester?
+4) Во сколько идет следующий поезд на Ливерпуль? - What time is the next train to Liverpool?
+5) Можно ли купить билет прямо в автобусе? - Can I buy a ticket on the bus?
+6) Можно ли купить билет прямо в поезде? - Can I buy a ticket on the train?
+7) Сколько стоит билет в один конец до Лондона? - How much is a single ticket to London?
+8) Сколько стоит билет в оба конца до Манчестера? - How much is a return ticket to Manchester?
+9) Я хотел бы ... до Шеффилда - I’d like a ... to Sheffield
+10) билет в один конец - single
+11) билет в оба конца - return
+12) детский билет в один конец - child single
+13) детский билет в оба конца - child return
+14) пенсионерский билет в один конец - senior citizens’ single
+15) пенсионерский билет в оба конца - senior citizens’ return
+16) билет первого класса в один конец - first class single
+17) билет первого класса в оба конца - first class return
+18) Есть ли скидки на билеты не в час-пик? - Are there reductions for off-peak travel?
+19) Когда вы хотели бы выехать? - When would you like to travel?
+20) Когда бы вы хотели вернуться? - When will you be coming back?
+21) Какая платформа на Бирмингем? - Which platform do I need for Birmingham?
+22) Это правильная платформа для Кардиффа? - Is this the right platform for Cardiff?
+23) Где мне нужно сделать пересадку? - Where should I change trains?
+24) Вам нужно сделать пересадку в Киркби - You’ll have to change at Kirkby
+25) Это действующее расписание? - Is this the current timetable?
+26) Как часто ходят автобусы на Плимут? - How often do the buses run to Plymouth?
+27) Как часто ходят поезда на Йорк? - How often do the trains run to York?
+28) Я хотел бы продлить сезонный билет, пожалуйста - I’d like to renew my season ticket, please

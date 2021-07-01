@@ -1,0 +1,18 @@
+1) Я хочу забронировать/ сдать билет - I want to book/ cancel a ticket
+2) Маршрут моего полета - My flight itinerary
+3) Когда следующий самолет в… …(Лондон, Берлин)? - When is the next flight to… (London, Berlin)?
+4) Когда прибытие в…(Лондон, Берлин)? - When does the plane arrive in…(London, Berlin)?
+5) Будут ли кормить в самолете? - Will food be served?
+6) Это прямой рейс/ без пересадки? - Is the flight direct/ nonstop?
+7) Можно это взять на борт? - May I carry this on board?
+8) Получение багажа - Luggage / baggage reclaim
+9) Ручная кладь - Hand luggage
+10) Стойка регистрации - Check-in counter/desk
+11) Задержка - Delay
+12) Таможня - Custom
+13) Иммиграционный контроль - Immigration control
+14) Отправление - Departures
+15) Место у прохода /у окна (в самолете) - Aisle / Window seat
+16) Зал ожидания (перед вылетом) - Departure lounge
+17) C какого выхода посадка на мой рейс? - Which gate does my flight leave from?
+18) Вот мой посадочный талон - Here is my boarding pass

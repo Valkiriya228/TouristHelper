@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FCFDFD">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintLayout"
+        android:layout_width="408dp"
+        android:layout_height="413dp"
+        android:layout_marginTop="5dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.428"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView3"
+        app:layout_constraintVertical_bias="0.0">
+
+        <Button
+            android:id="@+id/hello"
+            android:layout_width="73dp"
+            android:layout_height="57dp"
+            android:backgroundTint="#99CCBA"
+            android:foreground="@drawable/hello"
+            android:onClick="clickCells"
+            android:text="Button"
+            app:layout_constraintEnd_toStartOf="@+id/hotel"
+            app:layout_constraintHorizontal_bias="0.511"
+            app:layout_constraintStart_toEndOf="@+id/food"
+            tools:layout_editor_absoluteY="2dp" />
+
+        <Button
+            android:id="@+id/hotel"
+            android:layout_width="73dp"
+            android:layout_height="57dp"
+            android:layout_marginEnd="32dp"
+            android:backgroundTint="#99CCBA"
+            android:foreground="@drawable/hotel"
+            android:onClick="clickCells"
+            android:text="Button"
+            app:layout_constraintBottom_toBottomOf="@+id/hello"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/hello"
+            app:layout_constraintVertical_bias="0.0" />
+
+        <Button
+            android:id="@+id/food"
+            android:layout_width="73dp"
+            android:layout_height="57dp"
+            android:layout_marginStart="36dp"
+            android:background="#FFFFFF"
+            android:backgroundTint="#99CCBA"
+            android:foreground="@drawable/cafe"
+            android:onClick="clickCells"
+            app:layout_constraintBottom_toBottomOf="@+id/hello"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/hello"
+            app:layout_constraintVertical_bias="0.0" />
+
+        <Button
+            android:id="@+id/money"
+            android:layout_width="73dp"
+            android:layout_height="57dp"
+            android:layout_marginTop="48dp"
+            android:backgroundTint="#99CCBA"
+            android:foreground="@drawable/money"
+            android:onClick="clickCells"
+            android:text="Button"
+            app:layout_constraintEnd_toStartOf="@+id/tour"
+            app:layout_constraintHorizontal_bias="0.507"
+            app:layout_constraintStart_toEndOf="@+id/findRoad"
+            app:layout_constraintTop_toBottomOf="@+id/hello" />
+
+        <Button
+            android:id="@+id/findRoad"
+            android:layout_width="73dp"
+            android:layout_height="57dp"
+            android:backgroundTint="#99CCBA"
+            android:foreground="@drawable/findroad"
+            android:onClick="clickCells"
+            android:text="Button"
+            app:layout_constraintBottom_toBottomOf="@+id/money"
+            app:layout_constraintStart_toStartOf="@+id/food"
+            app:layout_constraintTop_toTopOf="@+id/money"
+            app:layout_constraintVertical_bias="0.0" />
+
+        <Button
+            android:id="@+id/tour"
+            android:layout_width="73dp"
+            android:layout_height="57dp"
+            android:backgroundTint="#99CCBA"
+            android:foreground="@drawable/tour"
+            android:onClick="clickCells"
+            android:text="Button"
+            app:layout_constraintBottom_toBottomOf="@+id/money"
+            app:layout_constraintEnd_toEndOf="@+id/hotel"
+            app:layout_constraintTop_toTopOf="@+id/money"
+            app:layout_constraintVertical_bias="0.166" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="4dp"
+            android:text="Узнать дорогу"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/findRoad" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:lines="2"
+            android:text="Обращение\nприветствие"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            app:layout_constraintEnd_toStartOf="@+id/textView5"
+            app:layout_constraintHorizontal_bias="0.352"
+            app:layout_constraintStart_toEndOf="@+id/textView3"
+            app:layout_constraintTop_toBottomOf="@+id/hello" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="52dp"
+            android:text="Отель"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/hotel" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="108dp"
+            android:layout_height="20dp"
+            android:layout_marginStart="24dp"
+            android:text="Ресторан/кафе"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/food" />
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="56dp"
+            android:layout_marginTop="4dp"
+            android:text="Банк/деньги"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            app:layout_constraintEnd_toStartOf="@+id/textView8"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toEndOf="@+id/textView6"
+            app:layout_constraintTop_toBottomOf="@+id/money" />
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:layout_marginEnd="36dp"
+            android:text="Экскурсии"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tour" />
+
+        <Button
+            android:id="@+id/taxi"
+            android:onClick="clickCells"
+            android:layout_width="73dp"
+            android:layout_height="57dp"
+            android:foreground="@drawable/taxi"
+            app:layout_constraintBottom_toTopOf="@+id/textView10"
+            app:layout_constraintStart_toStartOf="@+id/findRoad"
+            app:layout_constraintTop_toTopOf="@+id/shopping" />
+
+        <Button
+            android:id="@+id/shopping"
+            android:onClick="clickCells"
+            android:layout_width="73dp"
+            android:layout_height="57dp"
+            android:layout_marginTop="52dp"
+            android:foreground="@drawable/shop"
+            android:text="Button"
+            app:layout_constraintEnd_toStartOf="@+id/airport"
+            app:layout_constraintStart_toEndOf="@+id/taxi"
+            app:layout_constraintTop_toBottomOf="@+id/money" />
+
+        <Button
+            android:id="@+id/airport"
+            android:onClick="clickCells"
+            android:layout_width="73dp"
+            android:layout_height="57dp"
+            android:foreground="@drawable/airport"
+            android:text="Button"
+            app:layout_constraintBottom_toBottomOf="@+id/shopping"
+            app:layout_constraintEnd_toEndOf="@+id/tour"
+            app:layout_constraintTop_toTopOf="@+id/shopping" />
+
+        <Button
+            android:id="@+id/hospital"
+            android:onClick="clickCells"
+            android:layout_width="73dp"
+            android:layout_height="57dp"
+            android:foreground="@drawable/hospital"
+            android:text="Button"
+            app:layout_constraintBottom_toBottomOf="@+id/busTrain"
+            app:layout_constraintEnd_toStartOf="@+id/shopping"
+            app:layout_constraintHorizontal_bias="0.876"
+            app:layout_constraintStart_toStartOf="@+id/taxi"
+            app:layout_constraintTop_toBottomOf="@+id/shopping"
+            app:layout_constraintVertical_bias="1.0" />
+
+        <Button
+            android:id="@+id/busTrain"
+            android:onClick="clickCells"
+            android:layout_width="73dp"
+            android:layout_height="57dp"
+            android:layout_marginTop="36dp"
+            android:layout_marginEnd="36dp"
+            android:foreground="@drawable/bustrain"
+            android:text="Button"
+            app:layout_constraintEnd_toEndOf="@+id/airport"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toEndOf="@+id/shopping"
+            app:layout_constraintTop_toBottomOf="@+id/shopping" />
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="52dp"
+            android:layout_marginTop="8dp"
+            android:text="Такси"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/taxi" />
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="Покупки/Магазин"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            app:layout_constraintEnd_toStartOf="@+id/textView11"
+            app:layout_constraintHorizontal_bias="0.532"
+            app:layout_constraintStart_toEndOf="@+id/textView9"
+            app:layout_constraintTop_toBottomOf="@+id/shopping" />
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="36dp"
+            android:text="Аэропорт"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/airport" />
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="92dp"
+            android:layout_marginTop="8dp"
+            android:text="Больница"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/hospital" />
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="Автобус/Поезд"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.497"
+            app:layout_constraintStart_toEndOf="@+id/textView12"
+            app:layout_constraintTop_toBottomOf="@+id/busTrain" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="388dp"
+        android:layout_height="251dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.011"
+        app:srcCompat="@drawable/touriststwo"
+        tools:layout_editor_absoluteX="13dp" />
+
+    <Button
+        android:id="@+id/back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="64dp"
+        android:onClick="back"
+        android:text="Назад"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/constraintLayout"
+        app:layout_constraintVertical_bias="0.0" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

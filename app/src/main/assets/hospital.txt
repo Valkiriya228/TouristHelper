@@ -1,0 +1,22 @@
+1) Я хотел бы попасть на прием к врачу. - I'd like to see a doctor.
+2) У вас назначено? - Do you have an appointment?
+3) Это срочно? - Is it urgent?
+4) У вас есть врачи, которые говорят по-русски? - Do you have any doctors who speak Russian?
+5) У вас есть медицинская страховка? - Do you have private medical insurance?
+6) Садитесь, пожалуйста. - Please take a seat.
+7) Доктор готов принять вас сейчас. - The doctor's ready to see you now.
+8) В чем проблема? - What's the problem?
+9) Меня тошнило. - I've been feeling sick.
+10) У меня болела голова. - I've been having headaches.
+11) У меня диарея. - I've got diarrhoea.
+12) У меня опухоль. - I've got a lump.
+13) У меня опухла лодыжка. - I've got a swollen ankle.
+14) У меня очень сильная боль. - I'm in a lot of pain.
+15) У меня боль в спине / груди. - I've got a pain in my back / chest.
+16) Я думаю, что растянул мышцу на ноге. - I think I've pulled a muscle in my leg.
+17) Мне трудно дышать - I'm having difficulty breathing.
+18) Я чувствую большую усталость - I've been feeling very tired.
+19) Как долго вы уже себя так чувствуете? - How long have you been feeling like this?
+20) У вас есть на что-либо аллергия? - Do you have any allergies?
+21) У меня аллергия на антибиотики - I'm allergic to antibiotics.
+22) Вы принимаете какие-либо лекарства? - Are you on any sort of medication?

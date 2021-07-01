@@ -1,0 +1,15 @@
+1) Куда бы вы хотели поехать? - Where would you like to go?
+2) Отвезите меня по этому адресу, пожалуйста - Take me to this address, please
+3) Мне нужно поехать на станцию «Чаринг Кросс» - I need to go to Charing Cross station
+4) Не могли бы вы отвезти меня в центр города? - Could you take me to the city centre?
+5) Сколько это будет стоить? - How much will it cost?
+6) Могли бы мы остановиться у банкомата? - Could we stop at a cashpoint?
+7) Сколько времени займет дорога? - How long will the journey take?
+8) Я могу открыть окно? - May I open the window?
+9) Я могу закрыть окно? - May I close the window?
+10) Сколько я должен? - How much is it?
+11) Оставьте сдачу себе - Keep the change
+12) Вы желаете чек? - Would you like a receipt?
+13) Могу я получить чек, пожалуйста? - Could I have a receipt, please?
+14) Вы могли бы забрать меня отсюда в семь часов? - Could you pick me up here at seven o’clock?
+15) Вы могли бы подождать меня здесь? - Could you wait for me here?

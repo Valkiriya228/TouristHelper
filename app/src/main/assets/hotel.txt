@@ -1,0 +1,12 @@
+1) Мне нужен люкс / другая комната (мыло, полотенца, подушка, одеяло) - I need a suite / another room (a soap, towels, a pillow, a blanket)
+2) Я забронировал одноместный/ двуместный номер - I have a reservation for a single/ double room
+3) Я хотел бы заселиться - I’d like to check in/ out
+4) В отеле есть ресторан? - Is there a restaurant in the hotel?
+5) Когда подают завтрак? - When is breakfast served?
+6) Есть ли в номере кондиционер?(отопление, ванная, душ, горячая вода, интернет) - Is there an air conditioning in the room?(heating, bathroom, shower, TV, hot water, Wi-Fi)
+7) Мне нравится / мне не нравится - I like it / I don’t like it
+8) Где регистрация? (бар, ресторан, лифт, салон красоты, бассейн) - Where is the reception? (bar, restaurant, elevator, beauty parlor, pool)
+9) Как мне туда попасть? - How can I get there?
+10) Все включено - All inclusive
+11) Разбудите меня, пожалуйста, в 8 - Please wake me up at 8 o’clock
+12) Не беспокоить - Do not disturb
